@@ -10,10 +10,6 @@ body{
 
 
 
-.sub .subactiv {
-  
-  animation: glow 1s ease-in-out infinite alternate;
-}
 /*  glow effect */
 @-webkit-keyframes glow {
   from {
